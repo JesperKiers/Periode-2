@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: c0ee2bda919e1a948ab62bbb9ce832a1
+timeCreated: 1485179857
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: FirePitL
+    100006: FirePitR
+    100008: House
+    100010: Roof
+    100012: //RootNode
+    100014: Torch1
+    100016: Torch2
+    100018: TorchHolders
+    100020: WeaponALtar
+    100022: XtraObjectL
+    100024: XtraObjectR
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: FirePitL
+    400006: FirePitR
+    400008: House
+    400010: Roof
+    400012: //RootNode
+    400014: Torch1
+    400016: Torch2
+    400018: TorchHolders
+    400020: WeaponALtar
+    400022: XtraObjectL
+    400024: XtraObjectR
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: FirePitL
+    2300006: FirePitR
+    2300008: House
+    2300010: Roof
+    2300012: Torch1
+    2300014: Torch2
+    2300016: TorchHolders
+    2300018: WeaponALtar
+    2300020: XtraObjectL
+    2300022: XtraObjectR
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: FirePitL
+    3300006: FirePitR
+    3300008: House
+    3300010: Roof
+    3300012: Torch1
+    3300014: Torch2
+    3300016: TorchHolders
+    3300018: WeaponALtar
+    3300020: XtraObjectL
+    3300022: XtraObjectR
+    4300000: House
+    4300002: Roof
+    4300004: FirePitL
+    4300006: WeaponALtar
+    4300008: XtraObjectL
+    4300010: XtraObjectR
+    4300012: Torch1
+    4300014: Torch2
+    4300016: TorchHolders
+    4300018: FirePitR
+    4300020: Cylinder001
+    4300022: Cylinder002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
