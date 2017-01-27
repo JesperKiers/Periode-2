@@ -8,7 +8,7 @@ public class interactie : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        for (GameObject g = )
+        //geen idee
 		
 	}
 	
