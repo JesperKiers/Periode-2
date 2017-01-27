@@ -39,7 +39,7 @@ public class Movement : MonoBehaviour
 
         if (Input.GetKey(KeyCode.LeftShift))
         {
-            speed = 10f;
+            speed = 8f;
         }
         else
         {
